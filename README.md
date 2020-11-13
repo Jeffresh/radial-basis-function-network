@@ -1,1 +1,1 @@
-# radial-basis-function-network
+# Radial basis function network
